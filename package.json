@@ -1,0 +1,15 @@
+{
+  "name": "bikesharecharts_web",
+  "version": "1.0.0",
+  "description": "The web interface for bikesharecharts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.27.0",
+    "@types/d3": "^7.4.0"
+  }
+}
